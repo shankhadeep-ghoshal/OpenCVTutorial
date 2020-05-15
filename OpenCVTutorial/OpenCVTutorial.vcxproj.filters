@@ -27,6 +27,9 @@
     <ClCompile Include="DFT.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PerformGaussian.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="SplitAndMergeMat.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="DFT.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PerformGaussian.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
