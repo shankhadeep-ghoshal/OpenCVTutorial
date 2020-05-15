@@ -1,5 +1,5 @@
 #pragma once
-#ifndef _ACCESS_PIXELS_
+#ifndef _DFT_
 
 extern void performDFT();
 
